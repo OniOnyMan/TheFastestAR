@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b933febed2b94f64a923f2ac535a784c
+timeCreated: 1516006539
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DS Crystal
+  fontNames:
+  - DS Crystal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 76c927cc24a89da4cb09f5661fb0cb26, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
